@@ -9,3 +9,5 @@ Since we found that the implementation of BiSkip2Vec from <a href="https://githu
 - DATA/DATA_RAW.tar.gz: contains the raw data of these open source projects: antlr, cordova, datastax, factual, fpml, log4j, lucene, spring, uap, zeromq
 - DATA/TRAINING_SENTENCES: contains the processed data of aligned sentences between C# and Java, which will use as the input for Multivec.
 - DATA/SIGNATURE: all of the method signatures for each of the project
+
+We also use the mappings mined from our work in the configuration file of Java2Csharp: https://github.com/bdqnghi/sharpen-java2csharp
