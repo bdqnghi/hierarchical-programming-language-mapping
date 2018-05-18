@@ -10,4 +10,7 @@ Since we found that the implementation of BiSkip2Vec from <a href="https://githu
 - DATA/TRAINING_SENTENCES: contains the processed data of aligned sentences between C# and Java, which will use as the input for Multivec.
 - DATA/SIGNATURE: all of the method signatures for each of the project
 
-We also use the mappings mined from our work in the configuration file of Java2Csharp: https://github.com/bdqnghi/sharpen-java2csharp.
+# Result
+- The mapping that we found can be access at <a hred="https://github.com/bdqnghi/hierarchical-programming-language-mapping/blob/master/evaluation/method_mappings.csv">this</a> 
+
+- We also use the mappings mined from our work in the configuration file of Java2Csharp: https://github.com/bdqnghi/sharpen-java2csharp.
