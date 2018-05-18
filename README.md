@@ -11,6 +11,6 @@ Since we found that the implementation of BiSkip2Vec from <a href="https://githu
 - DATA/SIGNATURE: all of the method signatures for each of the project
 
 # Result
-- The mapping that we found can be access at <a hred="https://github.com/bdqnghi/hierarchical-programming-language-mapping/blob/master/evaluation/method_mappings.csv">this</a> 
+- The mapping that we found can be access at <a href="https://github.com/bdqnghi/hierarchical-programming-language-mapping/blob/master/evaluation/method_mappings.csv">mapping results</a> 
 
 - We also use the mappings mined from our work in the configuration file of Java2Csharp: https://github.com/bdqnghi/sharpen-java2csharp.
